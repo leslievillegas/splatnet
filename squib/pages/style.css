@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgba(168, 161, 184, 0.861);
+    color: rgb(177, 230, 216);
+    padding: 10px 0px;
+    border: 10px rgb(177, 230, 216) dashed;
+}
+
+main {
+    margin: 15px;
+    padding: 15 px;
+    background-color: rgb(177, 230, 216);
+    color: rgb(168, 161, 184);
+}
+
+footer {
+    background-color: rgb(218, 198, 230);
+    color: rgb(94, 9, 160);
+    padding: 10px 0;
+}
+
+label {
+    display: block;
+}
+
+.flower {
+    width: 300px;
+}
+
+.star {
+    width: 300px;
+}
+
+.outline {
+    font-style: oblique;
+}
